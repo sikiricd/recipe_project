@@ -1,0 +1,1 @@
+This is my first Odin Project project. I will be desiging my first website that is focused on recpes using all of the knowledge I obtained in the past few days in HTML. This is also my first HTML website. 
